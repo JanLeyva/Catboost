@@ -1,4 +1,3 @@
-os
 catboost
 ipywidgets
 shap
